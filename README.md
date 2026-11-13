@@ -1,39 +1,61 @@
-Past Papers in Biology, Math, Business, History, Science & Technology, and Theory of Knowledge!
-____________________________________________________________________________________________
+# Academic Research & Writing Portfolio
 
+A collection of independent academic research projects exploring mathematics, epidemiology, public health, economics, history, and technology.
 
-**CORRELATION BETWEEN THE HUMAN DEVELOPMENT INDEX (HDI) AND CORONARY ARTERY DISEASE:** 
-Research paper on the correlation between HDI and Coronary Artery Disease in countries with a high socioeconomic status for the years 2000 and 2019. Explore social/economics factors that influence disease in countries as well as conduct statistical analysis, test null/alternative hypotheses, and navigate data sets from the World Health Organization to collect reliable data. 
-____________________________________________________________________________________________
+These projects were completed during the International Baccalaureate Diploma Programme.
 
+## Quantitative & Scientific Research
 
-**EPIDEMIOLOGICAL TESTING OF COVID-19:**
-Research paper on the investigating the SIR (Susceptible, Infected, and Recovered) Epidemiology Model for Covid-19 in the United States, Canada, and India. Collected reliable data, created differential equations, used Euler’s method, and optimization to analyze infectious diseases. 
-____________________________________________________________________________________________
+### Epidemiological Modeling of COVID-19
+**Topics:** Mathematical Modeling, Differential Equations, Epidemiology
 
+Investigated the spread of COVID-19 across the United States, Canada, and India using the Susceptible-Infected-Recovered (SIR) model.
 
-**REDUCE EMPLOYEE TURNOVER RATE AT MICROSOFT:**
-Identify and resolve dissatisfaction from employees by analyzing H.R methods used to motivate employees as well as employee benefits and total compensation. Created and distributed questionnaire to 25 employees, completed a SWOT (Strength, Weaknesses, Opportunities, and Threats) analysis, Fishbone analysis, analysis of Maslow’s theory, and Hertzberg’s two factory theory.  
-____________________________________________________________________________________________
+Applied differential equations, Euler's method, and optimization techniques to analyze epidemiological trends.
 
+### Human Development Index & Coronary Artery Disease
+**Topics:** Statistics, Public Health, Data Analysis
 
-**FIDEL CASTRO COMMUNIST REGIME AND THE SOVIET MISSILE DEPLOYMENT:** 
-Research paper investigating to what extent was protecting Fidel Castro’s communist regime from being overthrown by the United States the primary cause of the Soviet Missile Deployment in Cuba in 1962. Analyzed original letters/meeting transcripts written by Khruschev, Castro, and John F. Kennedy to create/analyze historical perspectives.
-____________________________________________________________________________________________
+Investigated relationships between socioeconomic development and coronary artery disease using international health data.
 
+Applied statistical analysis and hypothesis testing to examine potential relationships between development indicators and health outcomes.
 
-**CORRELATION BETWEEN NUCLEAR FUSION AND CLIMATE CHANGE:**
-Research paper investigating the correlation between nuclear fusion and climate change. Analyzed 3 approaches to solving climate change: cap and reduce energy consumption, invest in alternative energy choices such as solar, and nuclear fusion including pros and cons. 
-____________________________________________________________________________________________
+## Business & Social Sciences
 
+### Employee Retention at Microsoft
+**Topics:** Business Analytics, Organizational Behavior
 
-**IS KNOWLEDGE INDEPENT OF CULTURE IN RELATION TO MATH AND HISTORY:**
-Paper analyzing if knowledge can be independent of culture in relation to mathematics and history. Mathematics is very dependent on logic and proof so is mostly independent of culture as it can be derived whereas history is dependent on culture as history is collected by looking at people’s past actions. 
-____________________________________________________________________________________________
+Analyzed employee retention strategies using surveys and business analysis frameworks, including SWOT analysis and organizational motivation theories.
 
+### Historical Analysis: The Cuban Missile Crisis
+**Topics:** Historical Research, Primary Source Analysis
 
+Analyzed the geopolitical motivations behind Soviet missile deployment in Cuba using historical correspondence and primary-source materials.
 
+## Science, Technology & Interdisciplinary Research
 
+### Nuclear Fusion & Climate Change
+**Topics:** Energy Systems, Sustainability, Technology
 
+Explored nuclear fusion and alternative energy approaches in the context of climate change mitigation.
 
+### Mathematics, History & the Nature of Knowledge
+**Topics:** Epistemology, Mathematics, History
 
+Examined the relationship between knowledge and culture through mathematical and historical perspectives.
+
+## Research Skills
+
+- Quantitative analysis and mathematical modeling
+- Statistical hypothesis testing
+- Literature review and source evaluation
+- Data interpretation
+- Academic and technical writing
+- Interdisciplinary research
+
+## About
+
+Ananya Bhattacharjee  
+Computer Science, University of Michigan – Ann Arbor
+
+This repository highlights my academic research background and complements my software engineering projects.
